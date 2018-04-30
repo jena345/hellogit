@@ -11,5 +11,7 @@ private static void m1(){
 
 private static void m2(){
 	System.out.println("************");
+	System.out.println("************2");
+	System.out.println("************3");
 }
 }
