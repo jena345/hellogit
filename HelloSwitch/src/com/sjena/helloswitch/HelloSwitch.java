@@ -17,7 +17,9 @@ public class HelloSwitch {
 	}
 	
 	private static void log4j(){
-		
+		System.out.println("log4j master-----------------");
+		System.out.println("log4j master-----------------");
+		System.out.println("log4j master-----------------");
 	}
 
 }
