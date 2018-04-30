@@ -8,7 +8,7 @@ public class HelloSwitch {
 	}
 
 	private static void test() {
-
+		System.out.println("******************");
 	}
 
 	private static void test2() {
