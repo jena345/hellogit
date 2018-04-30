@@ -5,4 +5,7 @@ public static void main(String[] args) {
 	System.out.println("*****************************");
 	System.out.println("::::;;;;;;;;;;;;;;;;;;;;;;");
 }
+private static void test2() {
+
+}
 }
