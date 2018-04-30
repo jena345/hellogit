@@ -13,6 +13,7 @@ public class HelloSwitch {
 
 	private static void test2() {
 		System.out.println("test2-----------------");
+		System.out.println("log4j master-----------------");
 	}
 
 }
