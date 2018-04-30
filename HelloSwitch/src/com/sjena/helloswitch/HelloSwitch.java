@@ -15,5 +15,8 @@ public class HelloSwitch {
 		System.out.println("test2-----------------");
 		System.out.println("log4j master-----------------");
 	}
+	private static void log4j(){
+		
+	}
 
 }
