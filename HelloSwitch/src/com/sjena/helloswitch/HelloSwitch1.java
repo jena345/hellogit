@@ -8,6 +8,6 @@ public static void main(String[] args) {
 }
 
 private static void log4j(){
-	
+	System.out.println("****************8");
 }
 }
