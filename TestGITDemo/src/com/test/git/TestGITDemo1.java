@@ -10,6 +10,6 @@ private static void m1(){
 }
 
 private static void m2(){
-	
+	System.out.println("************");
 }
 }
